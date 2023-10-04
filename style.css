@@ -1,6 +1,14 @@
 .nav-item img{
-  height: 100;
+  max-height: 60px;
 }
-.navbar{
-  background-color: 3F486C;
+.navbar-nav{
+  justify-self: center;
 }
+.navbar-brand img{
+  max-height: 90px;
+}
+
+.basecolor{
+  background-color: #3F486C !important;
+}
+
